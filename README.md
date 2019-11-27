@@ -11,31 +11,59 @@ Input:
 "Fourscore and seven years ago our fathers brought forth, on this continent, a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal."
 
 Output:
+
 2: and
+
 1: years
+
 1: to
+
 1: this
+
 1: the
+
 1: that
+
 1: seven
+
 1: proposition
+
 1: our
+
 1: on
+
 1: new
+
 1: nation
+
 1: men
+
 1: liberty
+
 1: in
+
 1: fourscore
+
 1: forth
+
 1: fathers
+
 1: equal
+
 1: dedicated
+
 1: created
+
 1: continent
+
 1: conceived
+
 1: brought
+
 1: are
+
 1: all
+
 1: ago
+
 1: a
