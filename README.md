@@ -4,6 +4,7 @@ This is my homework submission for CISC 3130 data structures MY9 class. It shoul
 A type of text file this could be used for is a song, a book, a speach. Word Frequency is a list of words and the amount of times each word was used.
 
 In order to create this frequency I used a dictionary. I used this because a dictionary with the key-value pair was suggested by my professor. The key would be the world and the value is the number of times the word appears.
+This code was mostly done from https://www.geeksforgeeks.org/sorting-a-hashmap-according-to-values/ and from my Professor's example. I slightly modified it.
 
 Example of input and output:
 
